@@ -9,7 +9,7 @@ This repository contains a MATLAB® demo:
 Open `OfflineRLForClinicalDecisions.m` in the MATLAB Live Editor and run it section by section. The file interleaves explanation, code, tables, and figures so you can see what each step does and why it matters.
 
 Click below to open the GitHub repository in MATLAB Online™:
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?host=insidelabs-git.mathworks.com&repo=fnae/reinforcement-learning-for-clinicians)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/reinforcement-learning-for-clinicians&file=https://github.com/mathworks/reinforcement-learning-for-clinicians/blob/main/OfflineRLForClinicalDecisions.m)
 
 The example is for clinicians, clinical AI evaluators, and MATLAB users who want to understand a **safety-focused offline reinforcement learning** workflow. 
 
